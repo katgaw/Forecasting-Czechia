@@ -5,10 +5,10 @@
 - Regression model: VAR
 - over 90 % forecasting accuracy
 
-### Check out my blog
+##### Check out my blog
 - presented on my blog: https://ggforecast.wpcomstaging.com
 
-### Dataset
+##### Dataset
 - automatic scraping of Eurostat, Czech Statistical Office for data
 - in a form of Panel dataset
 - quarterly data
