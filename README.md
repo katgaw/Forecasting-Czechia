@@ -21,7 +21,7 @@ To use this project simply clone the repository and run the code **Scraping_Note
 ---
 
 ## Citation
-•	GAWTHORPE, Kateřina. Random forest as a model for Czech forecasting. Prague economic papers [online]. 2021. 22 s. eISSN 2336-730X. ISSN 1210-0455. DOI: 10.18267/j.pep.765. Available in: https://pep.vse.cz/getrevsrc.php?identification=public&mag=pep&raid=923&type=fin&ver=2.
+GAWTHORPE, Kateřina. Random forest as a model for Czech forecasting. Prague economic papers [online]. 2021. 22 s. eISSN 2336-730X. ISSN 1210-0455. DOI: 10.18267/j.pep.765. Available in: https://pep.vse.cz/getrevsrc.php?identification=public&mag=pep&raid=923&type=fin&ver=2.
 
 ---
 
